@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello welcome to your first AWS/Github site
+          This is new branch test to see how actions work.
         </p>
         <a
           className="App-link"
